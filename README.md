@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fardias Alfathan</h1>
 <h3 align="center">A passionate frontend web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS And Larvel**
 
-- ⚡ Fun fact **I love short hair girl**
+- ⚡ Fun fact **I love short hair girl anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
