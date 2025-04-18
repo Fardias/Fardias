@@ -1,7 +1,7 @@
 
 # Hello World! I'm FARDIAS 😁👋
-### Saya seorang Frontend Developer
-(Deskrripsi)
+### Mendesign tampilan website dan mobile✨
+Halo perkenalkan nama saya fardias dan saya adalah orang yang suka membuat, eksplorasi dunia pembuatan website dan mobile apps, terutama pada tampilan aplikasinya.
 
 ## 🛠 Skills
 <div align="left">
