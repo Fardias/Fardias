@@ -28,5 +28,6 @@ Perkenalkan, nama saya Fardias. Saya adalah seorang pengembang yang memiliki min
   
 #### Personal And Collab Projects
 - [📖 SOFLEPRO](https://soflepro.vercel.app/)
+- [📖 AL-Quran Digital](https://al-quran-digital.vercel.app/)
 - [💗 WAIFU ALBUM](https://waifugallery.vercel.app/)
 - [✨ YASNIME](https://yasnime.vercel.app/)
