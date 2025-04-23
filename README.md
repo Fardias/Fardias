@@ -22,11 +22,11 @@ Perkenalkan, nama saya Fardias. Saya adalah seorang pengembang yang memiliki min
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fardias.vercel.app/)
 
 
-## 🌐 Related
-
-#### Fav Language
+## Fav Language
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fardias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   
-#### Personal Projects
+#### Personal And Collab Projects
 - [📖 SOFLEPRO](https://soflepro.vercel.app/)
+- [💗 WAIFU ALBUM]((https://waifugallery.vercel.app/))
+- [✨ YASNIME]((https://yasnime.vercel.app/))
